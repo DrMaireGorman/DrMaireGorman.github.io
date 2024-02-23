@@ -2,7 +2,7 @@
 title: "Teaching experience"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/Aberystwyth Physics
+permalink: /teaching/
 venue: "University of Aberystwyth, Department of Physics"
 date: 
 location: "Aberystwyth, Wales"
