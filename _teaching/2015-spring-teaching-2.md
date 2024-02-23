@@ -13,7 +13,7 @@ This is a description of a teaching experience. You can use markdown like any ot
 PGM4310/PGM41010: Quantitative 
 ======
 
-Heading 2
+PGM2010: Research Skills
 ======
 
 Heading 3
