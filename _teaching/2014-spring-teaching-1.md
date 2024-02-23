@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/Aberystwyth Physics
 venue: "University of Aberystwyth, Department of Physics"
-date: 2016 - 2022
+date: 
 location: "Aberystwyth, Wales"
 ---
 
