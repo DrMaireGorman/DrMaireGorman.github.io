@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Aberystwyth, Department of Physics"
-date: 01-01-2016
+date: 2015-01-01
 location: "Aberystwyth, Wales"
 ---
 
