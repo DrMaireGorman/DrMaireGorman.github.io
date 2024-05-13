@@ -4,10 +4,9 @@ title: "Dr Maire Gorman"
 
 # About
 
-![Snake plants](Snake_plants.jpg){width=300}
+I am orginally from Aberdeen and grew up near Glasgow. I am a teaching-focussed lecturer in physics with a background in astrochemistry. 
 
-
-![October 2021](Llansteffan.jpg){width=300}
+![Me at Llansteffan Castle, October 2021](Llansteffan.jpg){width=300}
 
 
 # Appointments
