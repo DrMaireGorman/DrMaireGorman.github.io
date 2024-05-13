@@ -4,8 +4,6 @@ title: "Dr Maire Gorman"
 
 # About
 
-
-
 ![Snake plants](Snake_plants.jpg){width=300}
 
 
@@ -13,6 +11,9 @@ title: "Dr Maire Gorman"
 
 
 # Appointments
+
+
+
 
 # Teaching
 
