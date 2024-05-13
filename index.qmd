@@ -26,9 +26,14 @@ Oct 2012 – Dec 2015|Demonstrator|Department of Physics|University College Lond
 # Education 
 
 **PGCTHE from Aberystwyth University and Fellow of Higher Education Academy**
-Action research projects on i) use of tablets for lecturing mathematical methods and ii) study skills and fixed/growth mindsets within physics students. 
+
+Action research projects on
+
+1. Use of tablets for lecturing mathematical methods
+2. Study skills and fixed/growth mindsets within physics students. 
 
 **PhD, ExoMol Group, Department of Physics, University College London, 2012-2016**
+
 * Calculation of linelists for Chromium Hydride (CrH) & Manganese Hydride (MnH)
 * Supervisors: Professor Sergey N. Yurchenko & Professor Jonathan Tennyson
 * Tutor on two placements for “The Brilliant Club” teaching KS2 mathematics (Autumn 2015).
@@ -36,9 +41,10 @@ Action research projects on i) use of tablets for lecturing mathematical methods
 * Demonstrating on 3rd year practical astronomy course, “Certificate in Astronomy” course (open to adult learners) and year 1 laboratory classes. 
 
 **MPhys, University of Oxford, 2.1, 2008-2012**
-* Year 4 project: Monte Carlo Simulation of X-ray spectra from Black Hole Winds
-* Year 4 Major Options: Astrophysics, Physics of Atmospheres & Oceans
-* 2nd year option on “Teaching Physics in schools”. 
+
+*   Year 4 project: Monte Carlo Simulation of X-ray spectra from Black Hole Winds
+*   Year 4 Major Options: Astrophysics, Physics of Atmospheres & Oceans
+*   2nd year option on “Teaching Physics in schools”. 
 
 # Teaching
 
