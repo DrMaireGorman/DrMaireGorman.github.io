@@ -5,7 +5,11 @@ title: "Dr Maire Gorman"
 # About
 
 
+
 ![Snake plants](Snake_plants.jpg){width=300}
+
+
+![October 2021](Llansteffan.jpg){width=300}
 
 
 # Appointments
