@@ -15,7 +15,7 @@ I am orginally from Aberdeen and grew up near Glasgow. I am a teaching-focussed 
 |--------|--------|------------|-----------|
 |June 2024 - |Lecturer|Department of Physics|Sussex University|
 Sept 2022 – May 2024	|Lecturer in Physics Education |School of Physics |Bristol University|
-July 2020 – Aug 2022|Lecturer in Planetary Physics (0.67 FTE)|Department of Physics 0.67 |Aberystwyth University|
+July 2020 – Aug 2022|Lecturer in Planetary Physics (0.67 FTE)|Department of Physics |Aberystwyth University|
 Aug 2019 – Aug 2022	|Lecturer (0.33 FTE)| Graduate School|Aberystwyth University|
 Jan 2016 – June 2020|Teaching Fellow/ Associate Lecturer|Department of Physics| Aberystwyth University|
 Oct 2012 – Dec 2015|Demonstrator|Department of Physics|University College London|
@@ -23,9 +23,22 @@ Oct 2012 – Dec 2015|Demonstrator|Department of Physics|University College Lond
 : {tbl-colwidths="25,25,25,25]"}
 
 
+# Education 
 
+**PGCTHE from Aberystwyth University and Fellow of Higher Education Academy**
+Action research projects on i) use of tablets for lecturing mathematical methods and ii) study skills and fixed/growth mindsets within physics students. 
 
+**PhD, ExoMol Group, Department of Physics, University College London, 2012-2016**
+* Calculation of linelists for Chromium Hydride (CrH) & Manganese Hydride (MnH)
+* Supervisors: Professor Sergey N. Yurchenko & Professor Jonathan Tennyson
+* Tutor on two placements for “The Brilliant Club” teaching KS2 mathematics (Autumn 2015).
+* Experience tutoring individual A-level students (London Science Tutors).
+* Demonstrating on 3rd year practical astronomy course, “Certificate in Astronomy” course (open to adult learners) and year 1 laboratory classes. 
 
+**MPhys, University of Oxford, 2.1, 2008-2012**
+* Year 4 project: Monte Carlo Simulation of X-ray spectra from Black Hole Winds
+* Year 4 Major Options: Astrophysics, Physics of Atmospheres & Oceans
+* 2nd year option on “Teaching Physics in schools”. 
 
 # Teaching
 
